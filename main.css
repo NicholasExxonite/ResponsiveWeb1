@@ -98,3 +98,12 @@ body{
   background-color: #333;
   border: 1px solid #333;
 }
+.page-footer {
+  background-color: #3B494C;
+  color: #CDD7DA;
+  padding: 60px 0 30px;
+  font-size: 16px;
+}
+.footer-copyright{
+  color: #282B2C;
+}
